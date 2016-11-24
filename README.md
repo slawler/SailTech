@@ -6,7 +6,7 @@
 ## Launch a Binder & Open PlotCabinTemps to plot current readings.
 Instructions:
   1. Click the binder icon to activate a Live Jupyter Notebook Session
-  2. Open the PlotStationData.ipynb
+  2. Open the PlotCabinTemps.ipynb
   3. Run the Cell (ctrl + enter on your keyboard)
 
 ### About
