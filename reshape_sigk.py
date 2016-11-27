@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Description:Reshape raw data from signal k stream to pandas dataframe
+@author: slawler@dewberry.com
+Created on Sun Nov 27 10:34:36 2016
 """
 
 #Import Libraries
