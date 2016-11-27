@@ -1,6 +1,5 @@
 # SailTech
 
-
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/slawler/sailtech)
 
 ## Launch a Binder & Open PlotCabinTemps to plot current readings.
