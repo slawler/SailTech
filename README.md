@@ -13,4 +13,4 @@ Instructions:
 ### About
 Development Repo for scripts to log & plot hydro-met and other data onboard sailboats, recorded using onbard sensors and instrumentation.
 
-#New: Plot Data from NOAA Stations
+** Just added: Plot Data from NOAA Stations
